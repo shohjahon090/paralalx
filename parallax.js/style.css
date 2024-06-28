@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    h1 {
+        font-size: 72px;
+        background: -webkit-linear-gradient(#4e2222, #283b5f );
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 160px;
+    text-align: center;
+      }
+}
+.parallax{
+    background: url('https://i.pinimg.com/736x/bf/09/87/bf0987ba1e594c03c51777c6984f3a3e.jpg') repeat fixed 100%;
+    background-size: cover;
+}
+.parallax-1{
+    background: url('https://i.pinimg.com/736x/4f/89/f8/4f89f8d64622cb2cf63f6d32c043c795.jpg') repeat fixed 100%;
+    background-size: cover;
+    
+}
+.parallax-2{
+    background: url('https://i.pinimg.com/736x/1b/4f/45/1b4f452745befb90ac7774eed9219112.jpg') repeat fixed 100%;
+    background-size: cover;
+    
+}
+
+.parallax-3{
+    background: url('https://i.pinimg.com/736x/45/f8/74/45f8741d97177c4d90386100243dee93.jpg') repeat fixed 100%;
+    background-size: cover;
+    
+}
+.parallax-inner{
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+h3{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
